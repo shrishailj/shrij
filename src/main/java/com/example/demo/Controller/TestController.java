@@ -43,7 +43,7 @@ public class TestController {
 	
 	@PutMapping
 	public void updateData() {
-		
+		String name="Shrishail";
 	}
 	
 	
